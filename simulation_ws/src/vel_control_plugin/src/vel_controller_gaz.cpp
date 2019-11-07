@@ -8,8 +8,6 @@
 #include <gazebo/common/Events.hh>
 #include <cmath>
 
-/// A plugin to control a Velocity of prismatic and revolute joints using Gazebo_Control "*****NOT USING ROS AT ALL*****".
-
 namespace gazebo
 {
   class VelControlPlugin : public ModelPlugin
